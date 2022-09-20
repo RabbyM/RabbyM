@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RabbyM
+- 👋 Hi, I’m Rabby Mir.
 - 👀 I’m interested in transitioning into a career in the tech space particularly in software engineering. My background is a Bachelor's in Electrical Engineering.
 - 🌱 I’m currently learning the Django web framework to create a webapp based off of my own excel based VBA personal finance tracker. 
 - 💞️ I’m open to collab
